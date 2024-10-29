@@ -1,0 +1,439 @@
+body{
+    font-family: "Thema";
+    width: 100%;
+    margin: 0 auto;
+    background: #1E1C2D;
+    overflow-x: hidden;
+    }
+
+.main{
+    display: flex;
+    margin: 0px auto;
+    width: 1280px;
+}
+
+.h1{
+    font-family: "Thema";
+}
+.first{
+    width: 1280px;
+    height: 621.5px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+.hollywood{
+    width: 391.59px; 
+    height: 81.16px; 
+    position: relative;
+    margin-top: -377px;
+    margin-left: 445px;
+}
+
+.thema{
+    color: #ffffff;
+    font-size: 115px;
+    font-style: normal;
+    font-weight: normal;
+    text-shadow: 0px 3px 8px rgba(255, 255, 255, 0.7);
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 443px;
+}
+
+#t{
+    font-family: "Thema";
+    width: 67.49px; 
+    left: 0px; 
+    top: 12.16px; 
+    position: absolute;
+}
+
+#h{
+    width: 78.75px; 
+    left: 67.61px; 
+    top: 4.93px; 
+    position: absolute;
+}
+
+#e{
+    width: 78.75px; 
+    left: 146.55px; 
+    top: 0px; 
+    position: absolute;
+}
+
+#m{
+    width: 78.75px; 
+    left: 210.33px; 
+    top: 12.16px; 
+    position: absolute;
+}
+
+#a{
+    width: 78.75px; 
+    left: 312.84px; 
+    top: 4.56px; 
+    position: absolute;
+}
+
+.car{
+    position: absolute;
+    margin-top: 534.83px;
+    margin-left: 385px;
+}
+
+.carpet{
+    position: absolute;
+    margin-top: 559.11px;
+    margin-left: 258.67px;
+}
+
+.authors{
+    position: absolute;
+    margin-top: 993px;
+    margin-left: 66.67px;
+}
+
+.name1{
+    color: #FCD356;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -345px;
+    margin-left: 105.33px;
+}
+
+.name2{
+    color: #FCD356;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -345px;
+    margin-left: 721.89px;
+}
+
+.stage{
+    position: absolute;
+    margin-top: 1404.44px;
+}
+
+.fest{
+    color: #FFF2CA;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -155px;
+    margin-left: 450px;
+}
+
+.curtains{
+    position: absolute;
+    margin-top: -155px;
+    z-index: -2;
+}
+
+.light{
+    position: absolute;
+    margin-top: -330px;
+    z-index: -1;
+}
+
+.the{
+    position: absolute;
+    margin-top: 192px;
+    margin-left: 367px;
+}
+
+.specialtiestxt{
+    font-family: "Thema";
+    color: #FCD356;
+    width: 632px;
+    height: 88px;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 2600px;
+    margin-left: 36.89px;
+}
+
+.-txt{
+    color: #FCD356;
+    line-height: 105%;
+    font-size: 61px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    width: 550px;
+    height: 120px;
+    margin-top: 2580.83px;
+    margin-left: 684px;
+}
+
+.specialties{
+    position: absolute;
+    width: 1199px;
+    margin-top: 2806.83px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.movieticket{
+    position: absolute;
+    width: 711.11px;
+    height: 315.56px;
+    margin-top: 3164.83px;
+    margin-left: 40px;
+}
+
+.ticket{
+    position: absolute;
+}
+
+.ticketnumber{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: -33px;
+    rotate: -90deg;
+}
+
+.movie{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 95.59px;
+}
+
+.row{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 263px;
+    margin-left: 95.59px;
+}
+
+.rown{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 257px;
+    margin-left: 176.44px;
+}
+
+.place{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 263px;
+    margin-left: 228.09px;
+}
+
+.placen{
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 257px;
+    margin-left: 371.29px;
+}
+
+.time{
+    color: #670000;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 253px;
+    margin-left: 462px;
+}
+
+.размеры{
+    position: absolute;
+    width: 462.67px;
+    height: 316px;
+    margin-top: 3160px;
+    margin-left: 779.22px;
+}
+
+.прописные{
+    color: #ffffff;
+    font-size: 52.55px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 19.89px;
+    margin-left: 138.67px;
+}
+
+.строчные{
+    color: #ffffff;
+    font-size: 52.29px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 141px;
+    margin-left: 138.67px;
+}
+
+.капители{
+    color: #ffffff;
+    font-size: 36.68px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 278.43px;
+    margin-left: 138.67px;
+}
+
+.Апрописная{
+    color: #ffffff;
+    font-size: 111.35px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 0px;
+}
+
+.астрочная{
+    color: #ffffff;
+    font-size: 111.35px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 9.45px;
+}
+
+.Акапители{
+    color: #ffffff;
+    font-size: 78.79px;
+    font-style: normal;
+    font-weight: lighter;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 9.45px;
+}
+
+.цифра1{
+    color: #ffffff;
+    font-size: 72.85px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 88.9px;
+}
+
+.цифра07{
+    color: #ffffff;
+    font-size: 41.28px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 76px;
+    rotate: -90deg;
+}
+
+.цифра07капители{
+    color: #ffffff;
+    font-size: 41.28px;
+    font-style: normal;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 76px;
+    rotate: -90deg;
+}
+
+.arrow-1{
+    position: absolute;
+    /* width: 711.11px; */
+    height: 315.56px;
+    margin-top: 10px;
+    margin-left: 78px;
+}
+
+.arrow-2{
+    position: absolute;
+    width: 71.28;
+    height: 315.56px;
+    margin-top: 144px;
+    margin-left: 78px;
+}
+
+.arrow-2{
+    position: absolute;
+    width: 50.93px; 
+    height: 0px;
+    margin-top: 144px;
+    margin-left: 78px;
+}
+
+.arrow-3{
+    position: absolute;
+    width: 50.93px; 
+    height: 0px;
+    margin-top: 264px;
+    margin-left: 78px;
+}
+
+.widthnormal{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 619.89px; 
+    height: 420.67px;
+    margin-top: 3549.56px;
+    margin-left: 91.56px;
+}
+
+.styles{
+    position: absolute;
+    width: 525.33px; 
+    height: 36px;
+    margin-top: 3549.56px;
+    margin-left: 91.56px;
+}
+
+.h2{
+    position: absolute;
+    width: 474px; 
+    height: 142px;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: #ffffff;
+    font-size: 88.89px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.stylesfont{
+    position: relative;
+    color: #ffffff;
+    font-size: 35.56px;
+    font-style: italic;
+    font-weight: normal;
+}
