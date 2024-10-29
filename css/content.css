@@ -1,0 +1,506 @@
+body{
+    width: 1280px;
+    background: #1E1C2D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    }
+
+
+.section1{
+    width: 1280px;
+    height: 622px;
+    display: flex;
+    margin: 0px auto;
+    align-items: center; 
+}
+
+.THEMA{
+    width: 391.59px;
+    height: 81.16px;
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    left: -833px;
+}
+
+.thema{
+    font-family: "ThemaLatin";
+    color: #ffffff;
+    font-size: 115px;
+    font-style: normal;
+    font-weight: 900;
+    text-shadow: 0px 3px 8px rgba(255, 255, 255, 0.7);
+}
+
+#t{
+    width: 67px; 
+    top: 12.16px; 
+    position: relative;
+}
+
+#h{
+    width: 87px; 
+    top: 4.93px; 
+    position: relative;
+}
+
+#e{
+    width: 67px; 
+    top: 0px; 
+    position: relative;
+}
+
+#m{
+    width: 102px; 
+    top: 12.16px; 
+    position: relative;
+}
+
+#a{
+    width: 71px; 
+    top: 4.56px;
+    position: relative;
+}
+
+.limuzin{
+    width: 509px;
+    height: 85.94px;
+    left: 0;
+    margin-top: -89px;
+}
+
+.redcarpet{
+    margin-top: -61.66px;
+}
+
+.section2{
+    width: 1280px;
+    height: 561px;
+    display: flex;
+    margin: 0px auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.authors{
+    width: 1146.67px; 
+    height: 533.33px;
+    position: relative;
+}
+
+.names{
+    width: 932.55px;
+    height: 24.02px;
+    position: relative;
+    justify-content: space-between;
+    display: flex;
+    top: -340px;
+    left: 105.33px;
+}
+
+.name{
+    font-family: "ThemaCyrillic";
+    color: #FCD356;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.section3{
+    margin-top: -122.5px;
+    width: 1280px;
+    height: 1169.8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.toppart{
+    width: 1280px;
+    height: 475.5px;
+}
+
+.fest{
+    position: relative;
+    color: #FFF2CA;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 100;
+    top: -150px;
+    left: 452px;
+    width: 410px;
+    height: 50px;
+}
+
+.curtains{
+    top: -114px;
+    width: 1280px;
+    height: 747.13px;
+    position: relative;
+    z-index: -2;
+}
+
+.light{
+    top: -1038px;
+    height: 922px;
+    width: 1280px;
+    position: relative;
+}
+
+.the{
+    margin-top: -1500px;
+    left: 367px;
+    height: 211px;
+    width: 546.67px;
+    position: relative;
+}
+
+.section4{
+    margin-top: 15.59px;
+    width: 1280px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+}
+
+.specialtext{
+    width: 1203px;
+    height: 122px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.specialtiestxt{
+    font-family: "ThemaCyrillic";
+    position: relative;
+    color: #FCD356;
+    width: 538px;
+    height: 88px;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.tire{
+    font-family: "ThemaCyrillic";
+    position: relative;
+    color: #FCD356;
+    width: 94px;
+    height: 88px;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.txt{
+    font-family: "ThemaCyrillic";
+    position: relative;
+    color: #FCD356;
+    width: 518px;
+    height: 122px;
+    font-size: 61px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.specialties{
+    width: 1199px;
+    height: 232.84;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.section5{
+    font-family: "ThemaCyrillic";
+    margin-top: 126.16px;
+    width: 1209px;
+    height: 316px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.movieticket{
+    width: 711.11px;
+    height: 315.56px;
+}
+
+.alltxtonticket{
+    width: 524.41px;
+    height: 273.26px;
+    margin-top: -153px;
+    margin-left: 95.59px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.ticketnumber{
+    width: 140px;
+    height: 40px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 100;
+    margin-top: -185px;
+    margin-left: -32px;
+    rotate: -90deg;
+}
+
+.movie{
+    width: 524px;
+    height: 40px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.rownplace{
+    width: 296.16px;
+    height: 30.8px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.rownrown{
+    flex-wrap: nowrap;
+    width: 100.42px;
+    height: 30.8px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.placenplacen{
+    flex-wrap: nowrap;
+    width: 163.65px;
+    height: 30.8px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.row{
+    width: 73px;
+    height: 25px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.rown{
+    width: 19.56px;
+    height: 25px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: -6.5px;
+}
+
+.place{
+    width: 173px;
+    height: 25px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.placen{
+    width: 20.45px;
+    height: 25px;
+    color: #670000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: -7px;
+}
+
+.time{
+    color: #670000;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 300;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 362px;
+}
+
+.size{
+    font-family: "ThemaCyrillic";
+    width: 462.67px;
+    height: 316px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.letters{
+    width: 68px;
+    height: 321.5px;
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: -20px;
+}
+
+.abig{
+    width: 68px;
+    height: 71.52px;
+    color: #ffffff;
+    font-size: 111.35px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.asmall{
+    width: 49px;
+    height: 71.52px;
+    color: #ffffff;
+    font-size: 111.35px;
+    font-style: normal;
+    font-weight: 300;
+    margin-top: -25px;
+}
+
+.acapitals{
+    width: 48px;
+    height: 50.49px;
+    color: #ffffff;
+    font-size: 78.79px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.ann{
+    width: 34.86px;
+    height: 316px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.arrows{
+    width: 0px;
+    height: 321.5px;
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: -3px;
+}
+
+.numbers{
+    width: 30px;
+    height: 308.34px;
+    display: flex;
+    align-content: space-between;
+    justify-content: end;
+    flex-wrap: wrap;
+    margin-top: -3px;
+}
+
+.number1{
+    width: 30px;
+    height: 47.33px;
+    color: #ffffff;
+    font-size: 72.85px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.number07{
+    width: 52.59px;
+    height: 25px;
+    color: #ffffff;
+    font-size: 41.28px;
+    font-style: normal;
+    font-weight: 100;
+    rotate: -90deg;
+    margin-top: 11px;
+}
+
+.number07capitals{
+    width: 52.59px;
+    height: 25px;
+    color: #ffffff;
+    font-size: 41.28px;
+    font-style: normal;
+    font-weight: 100;
+    rotate: -90deg;
+}
+
+.bsc{
+    width: 324px;
+    height: 281.74px;
+    margin-top: 10px;
+    display: flex;
+    align-content: space-between;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+.big{
+    width: 324px;
+    height: 33.66px;
+    color: #ffffff;
+    font-size: 52.55px;
+    font-style: normal;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.small{
+    width: 218px;
+    height: 33.66px;
+    color: #ffffff;
+    font-size: 52.29px;
+    font-style: normal;
+    font-weight: 100;
+    margin-top: -5px;
+}
+
+.capitals{
+    width: 191px;
+    height: 24.19px;
+    color: #ffffff;
+    font-size: 36.78px;
+    font-style: normal;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.section6{
+    font-family: "ThemaLatin";
+    margin-top: 126.16px;
+    width: 1095.04px;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.width{
+    width: 619.89px;
+    height: 420.67px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
